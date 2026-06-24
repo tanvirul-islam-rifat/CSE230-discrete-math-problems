@@ -1,6 +1,6 @@
 # CSE230 — Discrete Mathematics: Solved Problem Set
 
-A professionally formatted solved problem set covering all major topics from **CSE230 – Discrete Mathematics** at BRAC University. Each problem includes the full mathematical working, step-by-step reasoning, and a clearly stated conclusion — not just the final answer.
+A solved problem set covering all major topics from **CSE230 – Discrete Mathematics**. Each problem includes the full mathematical working, step-by-step reasoning, and a clearly stated conclusion — not just the final answer.
 
 > CSE230 is a pure mathematics course with no coding component. This repository contains a formal written problem set that represents the mathematical work done in the course, alongside a Python script that generates the PDF programmatically.
 
