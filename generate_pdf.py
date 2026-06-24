@@ -136,6 +136,7 @@ story = []
 # ── Cover ────────────────────────────────────────────────
 story.append(Spacer(1, 1.8*cm))
 story.append(Paragraph("Discrete Mathematics", title_style))
+story.append(Spacer(1, 0.3*cm))
 story.append(Paragraph("Solved Problem Set", subtitle_style))
 story.append(Spacer(1, 0.3*cm))
 story.append(HRFlowable(width="60%", thickness=1.5, color=BLUE, hAlign="CENTER"))
